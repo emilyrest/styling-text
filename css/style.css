@@ -9,8 +9,7 @@ img {
     width: 100%;
 }
 
-figcaption, .article-category, .sub-titles, .author, time {
-    font-family: "Open-Sans", "sans-serif";
+figcaption, .article-category, .sub-titles, .author, .time {
 }
 
 .article-category {
